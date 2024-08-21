@@ -4,7 +4,7 @@
 ## <span style="color: blue !important;">&gt;</span> Skillset
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,java,js,c,html,css,git,mysql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,py,java,js,html,css,c,git,mysql" alt="My Skills" />
   </a>
 </div>
 
