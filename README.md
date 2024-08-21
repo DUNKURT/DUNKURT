@@ -2,7 +2,12 @@
 
 ---
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,java,c,html,css,git,mysql)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,js,java,c,html,css,git,mysql" alt="My Skills" />
+  </a>
+</div>
+
 <!--
 **DanSSV/DanSSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
